@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "babel.config.js",
+  "private":true,
   "scripts": {
     "test": "jest"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cli": "^1.0.1",
+    "weback": "^0.0.1-security",
+    "webpack": "^5.89.0"
+  }
 }
