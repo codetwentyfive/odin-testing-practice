@@ -5,7 +5,8 @@
   "main": "babel.config.js",
   "private":true,
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build":"webpack"
   },
   "author": "",
   "license": "ISC",
